@@ -1,26 +1,3 @@
-# Pascal's Triangle Function
+**ALX Interview Repository**
 
-## Overview
-
-This Python function, `pascal_triangle(n)`, generates Pascal's triangle up to the nth row and returns a list of lists of integers representing the triangle.
-
-### Functionality
-
-- The function takes a single parameter `n`, an integer representing the number of rows in Pascal's triangle to generate.
-- If `n` is less than or equal to 0, the function returns an empty list.
-- The function assumes that `n` will always be an integer.
-
-## Usage
-
-To use the `pascal_triangle` function:
-1. Copy the function into your Python environment or script.
-2. Call the function with the desired value of `n` to generate Pascal's triangle up to the nth row.
-
-### Example
-
-```python
-result = pascal_triangle(5)
-print(result)
-```
-
-This example will generate Pascal's triangle up to the 5th row and print the resulting list of lists. Replace `5` with any positive integer to obtain Pascal's triangle up to that row.
+The "alx-interview" repository serves as a comprehensive collection of files, resources, and materials commonly referenced or utilized during interviews within the ALX community. This repository aims to provide candidates with a diverse array of interview-related content, including sample questions, coding challenges, algorithm implementations, and other resources tailored to prepare individuals for technical interviews. From fundamental programming exercises to more advanced problem-solving tasks, this repository serves as a valuable resource to enhance interview readiness and proficiency in various technical domains.
